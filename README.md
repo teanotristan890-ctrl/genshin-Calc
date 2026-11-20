@@ -1,6 +1,6 @@
 # Genshin Calc
 
-A Wish Pity & Primogem Savings Calculator for Genshin Impact, built as a small portfolio project.
+A Wish Pity & Primogem Savings Calculator for Genshin Impact.
 
 I made this to answer the question every player asks before a banner: "Do I have enough pulls for the character I want?" You enter your current pity, whether your next 5★ is a 50/50 or guaranteed, and how many Primogems and Intertwined Fates you have. The dashboard then shows your chance of getting the featured 5★ and how many days of saving you still need.
 
