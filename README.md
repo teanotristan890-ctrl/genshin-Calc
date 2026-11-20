@@ -1,4 +1,4 @@
-# Genshin Calc
+# Genshin Calculator
 
 A Wish Pity & Primogem Savings Calculator for Genshin Impact.
 
