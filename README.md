@@ -20,9 +20,3 @@ React, Vite, and Tailwind CSS. The calculation logic lives in its own file (`src
 ## Notes on the math
 
 The 50/50 is treated as a flat 50% coin flip. The game's "Capturing Radiance" mechanic gives a slightly better chance than that, so real results can come out a bit better than the calculator shows.
-
-## Disclaimer
-
-Unofficial fan-made calculator. Not affiliated with or endorsed by HoYoverse.
-
-© All rights reserved by COGNOSPHERE. Genshin Impact and all related assets, names, and trademarks belong to HoYoverse / COGNOSPHERE.
